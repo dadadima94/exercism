@@ -14,9 +14,11 @@
 #   # ...
 #   # ...
 #
-  main () {
-    echo "Hello, World!"
-  }
-
-  # call main with all of the positional arguments
-  main "$@"
+#   main () {
+#     # your main function code here
+#   }
+#
+#   # call main with all of the positional arguments
+#   main "$@"
+#
+# *** PLEASE REMOVE THESE COMMENTS BEFORE SUBMITTING YOUR SOLUTION ***
