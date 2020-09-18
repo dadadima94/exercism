@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/dima/Coding/exercism/scala/leap/src/main/scala/Leap.scala:4:46: missing parameter type for expanded function ((x$1: <error>) => year.$percent(x$1).$eq$eq(0))[0m
+[0m[[0m[31merror[0m] [0m[0m    val isDivisibleBy(Int): Boolean = year % _ == 0[0m
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dima/Coding/exercism/scala/leap/src/main/scala/Leap.scala:4:9: not found: value isDivisibleBy[0m
+[0m[[0m[31merror[0m] [0m[0m    val isDivisibleBy(Int): Boolean = year % _ == 0[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dima/Coding/exercism/scala/leap/src/main/scala/Leap.scala:6:5: not found: value isDivisibleBy[0m
+[0m[[0m[31merror[0m] [0m[0m    isDivisibleBy(4) && (!isDivisibleBy(100) || isDivisibleBy(400))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dima/Coding/exercism/scala/leap/src/main/scala/Leap.scala:6:27: not found: value isDivisibleBy[0m
+[0m[[0m[31merror[0m] [0m[0m    isDivisibleBy(4) && (!isDivisibleBy(100) || isDivisibleBy(400))[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/dima/Coding/exercism/scala/leap/src/main/scala/Leap.scala:6:49: not found: value isDivisibleBy[0m
+[0m[[0m[31merror[0m] [0m[0m    isDivisibleBy(4) && (!isDivisibleBy(100) || isDivisibleBy(400))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
