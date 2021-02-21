@@ -11,5 +11,4 @@ object MatchingBrackets {
       .foreach(x => if (sum >= 0) sum += x)
     if (sum == 0) true else false
   }
-
 }
