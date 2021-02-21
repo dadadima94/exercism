@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.8":{"hashes":[["/Users/dima/Coding/exercism/scala/sum-of-multiples/src/main/scala/SumOfMultiples.scala","4e6efb955e8690a3c951a582589286ff67391bc7"]],"lastModifiedTimes":[]}}]
